@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background: rgb(158, 158, 158);
+}
+
+#username, #password {
+    list-style-type: none;
+}
+
+#submit {
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+}
+
+#border1 {
+    background: black;
+    width
+}
